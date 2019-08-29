@@ -1,0 +1,57 @@
+What is compile time and run time?
+
+ANS:Time taken by compiler to convert the language to binary language is
+called as compile time. The time taken to excute the compiled program is called run time.
+
+What is heap?
+
+ANS:The heap is the runtime data. Heap memory is used to to store objects in java.
+
+How java manage it's memory?
+
+ANS:The app load the code ,execute the code and manage memory and stores the actual object in a memory.
+
+What is the difference between String, StringBuffer and StringBuilder?
+
+ANS: Sting is immutable object Once is created can not be changed . StringBuffer and StringBuilder
+ is mutable means one can change the value of the object
+
+What is Singleton class?
+
+ANS: Singleton class is a class that can have only one object at a time . the purpose to use is to control object creation.
+
+What is Serialization and Deserialization?
+
+ANS:Its a process to converting a object into a bytes.
+
+Which one will take more memory, an int or Integer?
+
+ANS: int is 4 bytes and Integer is 16 Bytes. and Integer is a class and int is a primitive type .
+
+Why is String Immutable in Java ?
+ANS:because String objects are cached in String pool. String is one of the most used classes in java. java runtime
+maintains a String pool that makes it special class.
+
+What is constructor chaining in Java?
+
+ANS:It's a process of calling one constructor from another constructor . You can pass parameters through a bunch of different
+constructor.
+
+The difference between Serial and Parallel Garbage Collector?
+
+ANS:
+
+What is JIT stands for?
+
+ANS: Just In Time
+
+Explain Java Heap space and Garbage collection?
+
+ANS: When the Heap size become full ,Garbage is collected. and the garbage collectors finds unused objects and deletes them to free up memory.
+
+Can you guarantee the garbage collection process?
+ANS: NO
+
+What is the difference between stack and heap in Java?
+
+ANS: Stack is used to store local variables and heap memory is used to store objects in java.
